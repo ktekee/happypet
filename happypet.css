@@ -1,11 +1,18 @@
-.spacing {
-  word-spacing: 15px;
+nav {
+  background-color: #e9ecef;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-.spacing2 {
-  word-spacing: 300px;
+body {
+  background-color: #e9ecef;
 }
 
-.spacing3 {
-  word-spacing: 5cm;
+.jumbotron {
+  text-align: center;
+}
+
+.lead {
+  margin-left: 300px;
+  font-family: Adobe Myungjo Std M;
 }
